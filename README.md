@@ -2,11 +2,11 @@
  
 Intruções para executar o desafio:
   - Backend:
-    - Apontar algum banco postgres no arquivo <a hreaf = "https://github.com/LuisGustavo802/Desafio/blob/master/backend/src/main/resources/application.properties">application.properties</a>;
+    - Apontar algum banco postgres no arquivo src\main\resources\application.properties.
     - Executa o comando maven: spring-boot:run
 
   - Frontend:
-    - Apontar o endereço onde está sendo executado o backend no arquivo service/api.js (Default localhost:8080)
+    - Apontar o endereço onde está sendo executado o backend no arquivo web\src\services\api.js (Default localhost:8080)
     - No terminal executar o comando: yarn start ou npm start
 
 Instruções para uso:
