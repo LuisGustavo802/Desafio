@@ -2,7 +2,7 @@
  
 Intruções para executar o desafio:
   - Backend:
-    - Apontar algum banco postgres no arquivo https://github.com/LuisGustavo802/Desafio/blob/master/backend/src/main/resources/application.properties;
+    - Apontar algum banco postgres no arquivo <a hreaf = "https://github.com/LuisGustavo802/Desafio/blob/master/backend/src/main/resources/application.properties">application.properties</a>;
     - Executa o comando maven: spring-boot:run
 
   - Frontend:
